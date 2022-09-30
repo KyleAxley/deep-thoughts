@@ -20,4 +20,6 @@ const FriendList = ({ friendCount, username, friends }) => {
     );
 };
 
+
+
 export default FriendList;
